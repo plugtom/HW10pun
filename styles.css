@@ -1,0 +1,37 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: o;
+}
+body {
+  background-color: chartreuse;
+  display: block;
+  
+}
+.user-list{
+  border: 2px dashed black;
+  text-align: center;
+  margin: 1px ;
+}
+h1{
+  text-align: center;
+  
+}
+h3{
+  text-align: center;
+}
+.post-info {
+  margin-top: 15px;
+  padding: 15px;
+  border: 2px dashed black;
+}
+.post-info > * {
+  margin-top: 15px;
+  padding: 15px;
+  border: 2px dashed red;
+}
+
+
+
+
+
